@@ -18,7 +18,7 @@ Sbshell 是一款针对 官方sing-box 的辅助运行脚本，旨在解决官�
 
 ## 一键脚本：
 ```
-bash <(curl -sL https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/sbshall.sh)
+bash <(curl -sL https://ghproxy.net/https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/sbshall.sh)
 ```
 （初始化运行结束，输入“**sb**”进入菜单）
 目前支持系统为deiban/ubuntu/armbian, 后续有时间可能会去支持openwrt 。
@@ -27,19 +27,19 @@ bash <(curl -sL https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/
 
 ### 测试版：  
 tproxy：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tproxy_dev.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tproxy_dev.json  
 
 tun：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tun_dev.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tun_dev.json  
 
   
 
 ### 稳定版：  
 tproxy：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tproxy.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/config_template/config_tproxy.json  
 
 tun：
-https://raw.githubusercontent.com/qichiyuhub/sbshell/refs/heads/master/config_template/config_tun.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tun.json  
 
 
 ## Youtube视频教程：
@@ -50,4 +50,4 @@ https://t.me/qichiyuchat
 
 ## 其他问题：
 
-**请查看[wiki](https://github.com/qichiyuhub/sbshell/wiki)**
+**请查看[wiki](https://github.com/GengWei1997/wiki)**

@@ -27,10 +27,10 @@ bash <(curl -sL https://ghproxy.net/https://raw.githubusercontent.com/GengWei199
 
 ### 测试版：  
 tproxy：
-https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tproxy_dev.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/config_template/config_tproxy_dev.json  
 
 tun：
-https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tun_dev.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/config_template/config_tun_dev.json  
 
   
 
@@ -39,7 +39,7 @@ tproxy：
 https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/config_template/config_tproxy.json  
 
 tun：
-https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/master/config_template/config_tun.json  
+https://raw.githubusercontent.com/GengWei1997/sbshell/refs/heads/main/config_template/config_tun.json  
 
 
 ## Youtube视频教程：

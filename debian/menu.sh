@@ -54,7 +54,7 @@ download_script() {
     local RETRY_DELAY=5
 
     for ((i=1; i<=RETRIES; i++)); do
-        if wget -q -O "$SCRIPT_DIR/$SCRIPT" "$BASE_URL/$SCRIPT"; then
+        if wget -q -O -e use_proxy=yes -e http_proxy=http://192.168.10.99:7890 -e https_proxy=http://192.168.10.99:7890 "$SCRIPT_DIR/$SCRIPT" "$BASE_URL/$SCRIPT"; then
             chmod +x "$SCRIPT_DIR/$SCRIPT"
             return 0
         else
